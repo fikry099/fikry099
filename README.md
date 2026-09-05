@@ -41,31 +41,6 @@ I'm a 3rd-semester Information Sistem student and a full stack developer who enj
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fikry099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fikry's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fikry099&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fikry099&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🔝 Top Contributed Repo:
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fikry099&repo=pos-konter&theme=tokyonight&hide_border=true" alt="Top Repo" />
-</p>
-
----
-
 ### ✍️ Random Dev Quote:
 
 <p align="center">
