@@ -1,14 +1,14 @@
 # Hi there, I'm Fikry 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Full+Stack+%26+Web+Developer;Building+Real-World+POS+%26+Multi-Branch+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Information+Systems+Student;Full+Stack+%26+Web+Developer;Data+Science+%26+API+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me:
 
-I'm a 3rd-semester Information Systems student and a full stack developer who enjoys building practical, real-world systems using Laravel for the backend and modern tools like Tailwind CSS, React, and JavaScript for the frontend. I specialize in integrated platforms including POS systems, multi-branch management, admin dashboards, authentication systems, and RESTful APIs. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.
+I'm a 3rd-semester Information Systems student and a passionate developer. I build practical, real-world systems using Laravel for backends, modern JavaScript (React/Tailwind) for frontends, and Python (FastAPI/Flask) for lightweight services and Data Science exploration. I specialize in integrated platforms, RESTful APIs, data analysis, and admin dashboards. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.
 
 ---
 
@@ -27,10 +27,13 @@ I'm a 3rd-semester Information Systems student and a full stack developer who en
 
 ### 💻 Tech Stack:
 
-#### **Languages & Frameworks**
+#### **Languages, Frameworks & Web Dev**
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -39,6 +42,14 @@ I'm a 3rd-semester Information Systems student and a full stack developer who en
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### **Data Science & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
 #### **Databases, Tools & Deployment**
