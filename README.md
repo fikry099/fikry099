@@ -62,10 +62,10 @@ I'm a 3rd-semester Information Systems student and a passionate developer. I bui
 
 ---
 
-### ✍️ Random Dev Quote:
+### ✍️ Dev Quote:
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Martin%20Fowler&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&theme=tokyonight&card_width=550" alt="Dev Quote" />
 </p>
 
 ---
