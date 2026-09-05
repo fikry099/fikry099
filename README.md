@@ -1,7 +1,7 @@
 # Hi there, I'm Fikry 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Full+Stack+Laravel+%26+Web+Developer;Building+Real-World+POS+%26+Multi-Branch+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Information+Sistem+Student;Full+Stack+%26+Web+Developer;Building+Real-World+POS+%26+Multi-Branch+Apps" alt="Typing SVG" />
 </p>
 
 ---
