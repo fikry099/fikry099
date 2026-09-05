@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Mahasiswa Teknik Informatika** (Semester 3) yang berfokus pada pengembangan aplikasi web berbasis **Laravel**.
+- 🎓 **Mahasiswa Sistem Informasi** (Semester 3) yang berfokus pada pengembangan aplikasi web berbasis **Laravel**.
 - 🚀 Sedang aktif mengembangkan proyek sistem kasir (*Point of Sale*) multi-cabang custom berbasis PWA.
 - 💡 Tertarik pada **Fullstack Web Development**, **Backend System**, dan **Database Design**.
 - 📫 Hubungi saya via [LinkedIn](https://linkedin.com/in/fikriegnafis).
