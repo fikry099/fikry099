@@ -1,14 +1,14 @@
 # Hi there, I'm Fikry 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Full+Stack+Laravel+%26+Web+Developer;Building+Real-World+POS+%26+Multi-Branch+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Informatics+Engineering+Student;Full+Stack+Laravel+%26+Web+Developer;Building+Real-World+POS+%26+Multi-Branch+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me:
 
-I'm a 3rd-semester Informatics Engineering student and a full stack developer who enjoys building practical, real-world systems using Laravel for the backend and modern tools like Tailwind CSS and JavaScript for the frontend. I specialize in integrated platforms including POS systems, multi-branch management, admin dashboards, authentication systems, and RESTful APIs. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.
+I'm a 3rd-semester Information Sistem student and a full stack developer who enjoys building practical, real-world systems using Laravel for the backend and modern tools like Tailwind CSS and JavaScript for the frontend. I specialize in integrated platforms including POS systems, multi-branch management, admin dashboards, authentication systems, and RESTful APIs. I value clean code, clear architecture, and purpose-driven development. Always learning, always building.
 
 ---
 
@@ -44,8 +44,8 @@ I'm a 3rd-semester Informatics Engineering student and a full stack developer wh
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fikry099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fikry's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikry099&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fikry099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fikry's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fikry099&layout=compact&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ I'm a 3rd-semester Informatics Engineering student and a full stack developer wh
 ### 🔝 Top Contributed Repo:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fikry099&repo=pos-konter&theme=tokyonight&hide_border=true" alt="Top Repo" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=fikry099&repo=pos-konter&theme=tokyonight&hide_border=true" alt="Top Repo" />
 </p>
 
 ---
